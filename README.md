@@ -55,6 +55,9 @@ The dashboard includes:
 * Monthly Sales Trend
 * Interactive Filters
 
+### Dashboard Preview
+
+![Dashboard Preview](Captura_Dashboard.png)
 ---
 
 ## Key Findings
